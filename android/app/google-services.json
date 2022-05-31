@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836835766403",
+    "project_id": "postest7-maulana-yusuf",
+    "storage_bucket": "postest7-maulana-yusuf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836835766403:android:9c4fcd51ba945e152cabb6",
+        "android_client_info": {
+          "package_name": "com.example.postest7_1915016110_maulana_yusuf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836835766403-s30oj886avmo49m9jlr0cuj2trj4t9fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxTz9yCtm1_Py9SXo4nnZHZDmFXMiwcI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836835766403-s30oj886avmo49m9jlr0cuj2trj4t9fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
